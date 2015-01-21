@@ -66,9 +66,19 @@ sys	0m0.016s
 Żeby zobaczyć wyniki w ladnym wykresie, zapraszam na [strone](egzamin.project-midas.com), która specjalnie stworzylem na potrzeby ladnej prezentacji danych do egzaminu.
 
 ## Zad2
-Parsowanie pliku za pomoca Parser.java i usuwanie pustych linii za pomocą Cleaner.java
+Do tego ściągnąłem najnowszą wersję wikipedii plwiki-20150116-pages-articles-multistream.xml.bz2. Wszystkie słowa, które parsuję, zapisuję w małych literach. Są to dwa powody, przez które mogę mieć inne wyniki niż koledzy.
+
+Parsowanie pliku za pomoca Parser.java
 ~~~
-czas: 52:30
+czas: 22m10s
+~~~
+
+![img](img/czyszczenie.png)
+
+i usuwanie pustych linii za pomocą Cleaner.java
+
+~~~
+czas: 19m56s
 ~~~
 
 Import
@@ -82,20 +92,15 @@ sys	0m31.687s
 ~~~
 ![img](img/import.png)
 
-Map Reduce
+Po imporcie wykonuję Map i Reduce dzięki (skryptowi)[egzamin2MapReduce].
+
+![img](img/map.png)
+![img](img/reduce.png)
+
 ~~~
 mongo egzamin2MapReduce.js
 
-czas: 12:20:03
-~~~
-![img](img/mapReduce.png)
-
-####Najczęstrze słowa
-~~~
-> db.wynikowaBaza.find().sort({value:-1}).limit(3)
-{ "_id" : "w", "value" : 20292468 }
-{ "_id" : "i", "value" : 5780516 }
-{ "_id" : "a", "value" : 5407771 }
+czas: 16:20:03
 ~~~
 
 Tutaj również wykonałem export do pliku za pomocą [skryptu](toJson2.js):
@@ -103,3 +108,42 @@ Tutaj również wykonałem export do pliku za pomocą [skryptu](toJson2.js):
 ~~~~
 mongo --port 27000 toJson2.js > odp2.json 
 ~~~~
+
+
+####Najczęstrze słowa
+~~~
+{
+"value" : "poprawa",
+"count" : 15911
+},
+{
+"value" : "pierwszego",
+"count" : 15873
+},
+{
+"value" : "jedna",
+"count" : 15852
+},
+{
+"value" : "jednego",
+"count" : 15727
+},
+{
+"value" : "końca",
+"count" : 15705
+},
+{
+"value" : "urodził",
+"count" : 15697
+},
+{
+"value" : "znany",
+"count" : 15633
+},
+{
+"value" : "swoim",
+"count" : 15604
+},
+~~~
+
+Zapraszam do spojrzenia na [stronę](egzamin.project-midas.com) na wykres.
