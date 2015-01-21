@@ -62,6 +62,8 @@ user	0m0.048s
 sys	0m0.016s
 ~~~
 
+![img](img/stats2.png)
+
 Żeby zobaczyć wyniki w ladnym wykresie, zapraszam na [strone](http://egzamin.project-midas.com), która specjalnie stworzylem na potrzeby ladnej prezentacji danych do egzaminu.
 
 ## Zad2
@@ -144,5 +146,5 @@ mongo --port 27000 toJson2.js > odp2.json
 "count" : 15604
 },
 ~~~
-
+![img](img/stats2.png)
 Zapraszam do spojrzenia na [stronę](http://egzamin.project-midas.com) na wykres.
