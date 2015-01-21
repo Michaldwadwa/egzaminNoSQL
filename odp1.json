@@ -1,0 +1,3662 @@
+time mongo test.js > wyniki.json
+
+real	0m0.184s
+user	0m0.130s
+sys	0m0.029s
+
+{
+"value" : "carets",
+"count" : 6
+},
+{
+"value" : "capers",
+"count" : 6
+},
+{
+"value" : "parsed",
+"count" : 5
+},
+{
+"value" : "palest",
+"count" : 5
+},
+{
+"value" : "lasted",
+"count" : 5
+},
+{
+"value" : "ulster",
+"count" : 4
+},
+{
+"value" : "stater",
+"count" : 4
+},
+{
+"value" : "redraw",
+"count" : 4
+},
+{
+"value" : "passer",
+"count" : 4
+},
+{
+"value" : "merits",
+"count" : 4
+},
+{
+"value" : "esprit",
+"count" : 4
+},
+{
+"value" : "enlist",
+"count" : 4
+},
+{
+"value" : "bluest",
+"count" : 4
+},
+{
+"value" : "arrest",
+"count" : 4
+},
+{
+"value" : "tholes",
+"count" : 3
+},
+{
+"value" : "stored",
+"count" : 3
+},
+{
+"value" : "stared",
+"count" : 3
+},
+{
+"value" : "slates",
+"count" : 3
+},
+{
+"value" : "signed",
+"count" : 3
+},
+{
+"value" : "rifest",
+"count" : 3
+},
+{
+"value" : "retest",
+"count" : 3
+},
+{
+"value" : "retard",
+"count" : 3
+},
+{
+"value" : "resort",
+"count" : 3
+},
+{
+"value" : "reigns",
+"count" : 3
+},
+{
+"value" : "reedit",
+"count" : 3
+},
+{
+"value" : "reared",
+"count" : 3
+},
+{
+"value" : "ravels",
+"count" : 3
+},
+{
+"value" : "railed",
+"count" : 3
+},
+{
+"value" : "prudes",
+"count" : 3
+},
+{
+"value" : "prated",
+"count" : 3
+},
+{
+"value" : "pintos",
+"count" : 3
+},
+{
+"value" : "parley",
+"count" : 3
+},
+{
+"value" : "parers",
+"count" : 3
+},
+{
+"value" : "master",
+"count" : 3
+},
+{
+"value" : "leaser",
+"count" : 3
+},
+{
+"value" : "lament",
+"count" : 3
+},
+{
+"value" : "indent",
+"count" : 3
+},
+{
+"value" : "idlest",
+"count" : 3
+},
+{
+"value" : "gander",
+"count" : 3
+},
+{
+"value" : "forest",
+"count" : 3
+},
+{
+"value" : "filers",
+"count" : 3
+},
+{
+"value" : "eviler",
+"count" : 3
+},
+{
+"value" : "esters",
+"count" : 3
+},
+{
+"value" : "escort",
+"count" : 3
+},
+{
+"value" : "enacts",
+"count" : 3
+},
+{
+"value" : "credos",
+"count" : 3
+},
+{
+"value" : "crated",
+"count" : 3
+},
+{
+"value" : "canter",
+"count" : 3
+},
+{
+"value" : "cadres",
+"count" : 3
+},
+{
+"value" : "brutes",
+"count" : 3
+},
+{
+"value" : "bruise",
+"count" : 3
+},
+{
+"value" : "basest",
+"count" : 3
+},
+{
+"value" : "artist",
+"count" : 3
+},
+{
+"value" : "ambler",
+"count" : 3
+},
+{
+"value" : "ambled",
+"count" : 3
+},
+{
+"value" : "alerts",
+"count" : 3
+},
+{
+"value" : "actors",
+"count" : 3
+},
+{
+"value" : "ablest",
+"count" : 3
+},
+{
+"value" : "writhe",
+"count" : 2
+},
+{
+"value" : "wander",
+"count" : 2
+},
+{
+"value" : "ushers",
+"count" : 2
+},
+{
+"value" : "unripe",
+"count" : 2
+},
+{
+"value" : "thread",
+"count" : 2
+},
+{
+"value" : "thesis",
+"count" : 2
+},
+{
+"value" : "tenors",
+"count" : 2
+},
+{
+"value" : "strove",
+"count" : 2
+},
+{
+"value" : "stride",
+"count" : 2
+},
+{
+"value" : "spouts",
+"count" : 2
+},
+{
+"value" : "sorest",
+"count" : 2
+},
+{
+"value" : "sonnet",
+"count" : 2
+},
+{
+"value" : "snores",
+"count" : 2
+},
+{
+"value" : "snatch",
+"count" : 2
+},
+{
+"value" : "skates",
+"count" : 2
+},
+{
+"value" : "skater",
+"count" : 2
+},
+{
+"value" : "skated",
+"count" : 2
+},
+{
+"value" : "serves",
+"count" : 2
+},
+{
+"value" : "seated",
+"count" : 2
+},
+{
+"value" : "sachet",
+"count" : 2
+},
+{
+"value" : "rusted",
+"count" : 2
+},
+{
+"value" : "russet",
+"count" : 2
+},
+{
+"value" : "routed",
+"count" : 2
+},
+{
+"value" : "rinses",
+"count" : 2
+},
+{
+"value" : "rinsed",
+"count" : 2
+},
+{
+"value" : "rested",
+"count" : 2
+},
+{
+"value" : "resist",
+"count" : 2
+},
+{
+"value" : "resend",
+"count" : 2
+},
+{
+"value" : "rawest",
+"count" : 2
+},
+{
+"value" : "rattan",
+"count" : 2
+},
+{
+"value" : "rashes",
+"count" : 2
+},
+{
+"value" : "ranked",
+"count" : 2
+},
+{
+"value" : "quires",
+"count" : 2
+},
+{
+"value" : "presto",
+"count" : 2
+},
+{
+"value" : "preset",
+"count" : 2
+},
+{
+"value" : "prates",
+"count" : 2
+},
+{
+"value" : "posted",
+"count" : 2
+},
+{
+"value" : "peruse",
+"count" : 2
+},
+{
+"value" : "paltry",
+"count" : 2
+},
+{
+"value" : "paired",
+"count" : 2
+},
+{
+"value" : "owners",
+"count" : 2
+},
+{
+"value" : "owlets",
+"count" : 2
+},
+{
+"value" : "organs",
+"count" : 2
+},
+{
+"value" : "ordeal",
+"count" : 2
+},
+{
+"value" : "optics",
+"count" : 2
+},
+{
+"value" : "oodles",
+"count" : 2
+},
+{
+"value" : "onsets",
+"count" : 2
+},
+{
+"value" : "occurs",
+"count" : 2
+},
+{
+"value" : "neuter",
+"count" : 2
+},
+{
+"value" : "naiver",
+"count" : 2
+},
+{
+"value" : "nadirs",
+"count" : 2
+},
+{
+"value" : "madden",
+"count" : 2
+},
+{
+"value" : "lowers",
+"count" : 2
+},
+{
+"value" : "looped",
+"count" : 2
+},
+{
+"value" : "livers",
+"count" : 2
+},
+{
+"value" : "lisper",
+"count" : 2
+},
+{
+"value" : "liefer",
+"count" : 2
+},
+{
+"value" : "lemons",
+"count" : 2
+},
+{
+"value" : "laymen",
+"count" : 2
+},
+{
+"value" : "layers",
+"count" : 2
+},
+{
+"value" : "lapses",
+"count" : 2
+},
+{
+"value" : "lapsed",
+"count" : 2
+},
+{
+"value" : "lapins",
+"count" : 2
+},
+{
+"value" : "kilned",
+"count" : 2
+},
+{
+"value" : "itself",
+"count" : 2
+},
+{
+"value" : "islets",
+"count" : 2
+},
+{
+"value" : "inures",
+"count" : 2
+},
+{
+"value" : "insect",
+"count" : 2
+},
+{
+"value" : "ingest",
+"count" : 2
+},
+{
+"value" : "infest",
+"count" : 2
+},
+{
+"value" : "inches",
+"count" : 2
+},
+{
+"value" : "inbred",
+"count" : 2
+},
+{
+"value" : "ideals",
+"count" : 2
+},
+{
+"value" : "iceman",
+"count" : 2
+},
+{
+"value" : "horsed",
+"count" : 2
+},
+{
+"value" : "honers",
+"count" : 2
+},
+{
+"value" : "hikers",
+"count" : 2
+},
+{
+"value" : "hawser",
+"count" : 2
+},
+{
+"value" : "grouse",
+"count" : 2
+},
+{
+"value" : "gratin",
+"count" : 2
+},
+{
+"value" : "gourde",
+"count" : 2
+},
+{
+"value" : "golden",
+"count" : 2
+},
+{
+"value" : "glares",
+"count" : 2
+},
+{
+"value" : "gilder",
+"count" : 2
+},
+{
+"value" : "ghouls",
+"count" : 2
+},
+{
+"value" : "garret",
+"count" : 2
+},
+{
+"value" : "fowled",
+"count" : 2
+},
+{
+"value" : "filter",
+"count" : 2
+},
+{
+"value" : "farted",
+"count" : 2
+},
+{
+"value" : "evilly",
+"count" : 2
+},
+{
+"value" : "eructs",
+"count" : 2
+},
+{
+"value" : "envied",
+"count" : 2
+},
+{
+"value" : "enters",
+"count" : 2
+},
+{
+"value" : "elvers",
+"count" : 2
+},
+{
+"value" : "eluded",
+"count" : 2
+},
+{
+"value" : "elapse",
+"count" : 2
+},
+{
+"value" : "eiders",
+"count" : 2
+},
+{
+"value" : "educes",
+"count" : 2
+},
+{
+"value" : "earths",
+"count" : 2
+},
+{
+"value" : "earned",
+"count" : 2
+},
+{
+"value" : "drowse",
+"count" : 2
+},
+{
+"value" : "dilate",
+"count" : 2
+},
+{
+"value" : "crones",
+"count" : 2
+},
+{
+"value" : "cripes",
+"count" : 2
+},
+{
+"value" : "creeds",
+"count" : 2
+},
+{
+"value" : "crater",
+"count" : 2
+},
+{
+"value" : "corked",
+"count" : 2
+},
+{
+"value" : "claret",
+"count" : 2
+},
+{
+"value" : "carves",
+"count" : 2
+},
+{
+"value" : "carpel",
+"count" : 2
+},
+{
+"value" : "caller",
+"count" : 2
+},
+{
+"value" : "burble",
+"count" : 2
+},
+{
+"value" : "brides",
+"count" : 2
+},
+{
+"value" : "breads",
+"count" : 2
+},
+{
+"value" : "bestir",
+"count" : 2
+},
+{
+"value" : "berate",
+"count" : 2
+},
+{
+"value" : "begins",
+"count" : 2
+},
+{
+"value" : "bedsit",
+"count" : 2
+},
+{
+"value" : "barley",
+"count" : 2
+},
+{
+"value" : "barked",
+"count" : 2
+},
+{
+"value" : "barged",
+"count" : 2
+},
+{
+"value" : "barest",
+"count" : 2
+},
+{
+"value" : "bakers",
+"count" : 2
+},
+{
+"value" : "averts",
+"count" : 2
+},
+{
+"value" : "assert",
+"count" : 2
+},
+{
+"value" : "aspire",
+"count" : 2
+},
+{
+"value" : "argots",
+"count" : 2
+},
+{
+"value" : "arcing",
+"count" : 2
+},
+{
+"value" : "arches",
+"count" : 2
+},
+{
+"value" : "animal",
+"count" : 2
+},
+{
+"value" : "angels",
+"count" : 2
+},
+{
+"value" : "altars",
+"count" : 2
+},
+{
+"value" : "aligns",
+"count" : 2
+},
+{
+"value" : "airmen",
+"count" : 2
+},
+{
+"value" : "afters",
+"count" : 2
+},
+{
+"value" : "adsorb",
+"count" : 2
+},
+{
+"value" : "adders",
+"count" : 2
+},
+{
+"value" : "wrests",
+"count" : 1
+},
+{
+"value" : "wrasse",
+"count" : 1
+},
+{
+"value" : "wolves",
+"count" : 1
+},
+{
+"value" : "withes",
+"count" : 1
+},
+{
+"value" : "withed",
+"count" : 1
+},
+{
+"value" : "whores",
+"count" : 1
+},
+{
+"value" : "whales",
+"count" : 1
+},
+{
+"value" : "welkin",
+"count" : 1
+},
+{
+"value" : "waiver",
+"count" : 1
+},
+{
+"value" : "velour",
+"count" : 1
+},
+{
+"value" : "valets",
+"count" : 1
+},
+{
+"value" : "utters",
+"count" : 1
+},
+{
+"value" : "uterus",
+"count" : 1
+},
+{
+"value" : "upwind",
+"count" : 1
+},
+{
+"value" : "upsets",
+"count" : 1
+},
+{
+"value" : "uppers",
+"count" : 1
+},
+{
+"value" : "uphold",
+"count" : 1
+},
+{
+"value" : "unwary",
+"count" : 1
+},
+{
+"value" : "untrod",
+"count" : 1
+},
+{
+"value" : "untidy",
+"count" : 1
+},
+{
+"value" : "unshod",
+"count" : 1
+},
+{
+"value" : "unrest",
+"count" : 1
+},
+{
+"value" : "unreal",
+"count" : 1
+},
+{
+"value" : "unites",
+"count" : 1
+},
+{
+"value" : "united",
+"count" : 1
+},
+{
+"value" : "unions",
+"count" : 1
+},
+{
+"value" : "unable",
+"count" : 1
+},
+{
+"value" : "umlaut",
+"count" : 1
+},
+{
+"value" : "umbras",
+"count" : 1
+},
+{
+"value" : "uglier",
+"count" : 1
+},
+{
+"value" : "twiner",
+"count" : 1
+},
+{
+"value" : "trouts",
+"count" : 1
+},
+{
+"value" : "travel",
+"count" : 1
+},
+{
+"value" : "trails",
+"count" : 1
+},
+{
+"value" : "traded",
+"count" : 1
+},
+{
+"value" : "torpid",
+"count" : 1
+},
+{
+"value" : "togaed",
+"count" : 1
+},
+{
+"value" : "tocsin",
+"count" : 1
+},
+{
+"value" : "timber",
+"count" : 1
+},
+{
+"value" : "tilted",
+"count" : 1
+},
+{
+"value" : "tilers",
+"count" : 1
+},
+{
+"value" : "thrust",
+"count" : 1
+},
+{
+"value" : "throne",
+"count" : 1
+},
+{
+"value" : "throbs",
+"count" : 1
+},
+{
+"value" : "threat",
+"count" : 1
+},
+{
+"value" : "things",
+"count" : 1
+},
+{
+"value" : "theses",
+"count" : 1
+},
+{
+"value" : "theist",
+"count" : 1
+},
+{
+"value" : "thanes",
+"count" : 1
+},
+{
+"value" : "testes",
+"count" : 1
+},
+{
+"value" : "tested",
+"count" : 1
+},
+{
+"value" : "taints",
+"count" : 1
+},
+{
+"value" : "sweats",
+"count" : 1
+},
+{
+"value" : "suites",
+"count" : 1
+},
+{
+"value" : "suited",
+"count" : 1
+},
+{
+"value" : "struts",
+"count" : 1
+},
+{
+"value" : "struck",
+"count" : 1
+},
+{
+"value" : "stroll",
+"count" : 1
+},
+{
+"value" : "strike",
+"count" : 1
+},
+{
+"value" : "strain",
+"count" : 1
+},
+{
+"value" : "stoker",
+"count" : 1
+},
+{
+"value" : "stoats",
+"count" : 1
+},
+{
+"value" : "stewed",
+"count" : 1
+},
+{
+"value" : "steady",
+"count" : 1
+},
+{
+"value" : "states",
+"count" : 1
+},
+{
+"value" : "stated",
+"count" : 1
+},
+{
+"value" : "starch",
+"count" : 1
+},
+{
+"value" : "stamen",
+"count" : 1
+},
+{
+"value" : "sprout",
+"count" : 1
+},
+{
+"value" : "sprats",
+"count" : 1
+},
+{
+"value" : "sports",
+"count" : 1
+},
+{
+"value" : "spored",
+"count" : 1
+},
+{
+"value" : "speech",
+"count" : 1
+},
+{
+"value" : "soused",
+"count" : 1
+},
+{
+"value" : "sought",
+"count" : 1
+},
+{
+"value" : "sordid",
+"count" : 1
+},
+{
+"value" : "sorbet",
+"count" : 1
+},
+{
+"value" : "solute",
+"count" : 1
+},
+{
+"value" : "snored",
+"count" : 1
+},
+{
+"value" : "snoops",
+"count" : 1
+},
+{
+"value" : "snipes",
+"count" : 1
+},
+{
+"value" : "snared",
+"count" : 1
+},
+{
+"value" : "snakes",
+"count" : 1
+},
+{
+"value" : "smirch",
+"count" : 1
+},
+{
+"value" : "slowed",
+"count" : 1
+},
+{
+"value" : "sloops",
+"count" : 1
+},
+{
+"value" : "slides",
+"count" : 1
+},
+{
+"value" : "sleety",
+"count" : 1
+},
+{
+"value" : "sleets",
+"count" : 1
+},
+{
+"value" : "slayed",
+"count" : 1
+},
+{
+"value" : "sitars",
+"count" : 1
+},
+{
+"value" : "sinews",
+"count" : 1
+},
+{
+"value" : "sieved",
+"count" : 1
+},
+{
+"value" : "shiver",
+"count" : 1
+},
+{
+"value" : "shiner",
+"count" : 1
+},
+{
+"value" : "servos",
+"count" : 1
+},
+{
+"value" : "served",
+"count" : 1
+},
+{
+"value" : "senate",
+"count" : 1
+},
+{
+"value" : "selves",
+"count" : 1
+},
+{
+"value" : "seined",
+"count" : 1
+},
+{
+"value" : "seamed",
+"count" : 1
+},
+{
+"value" : "seabed",
+"count" : 1
+},
+{
+"value" : "scythe",
+"count" : 1
+},
+{
+"value" : "screen",
+"count" : 1
+},
+{
+"value" : "schema",
+"count" : 1
+},
+{
+"value" : "scarps",
+"count" : 1
+},
+{
+"value" : "scaled",
+"count" : 1
+},
+{
+"value" : "satyrs",
+"count" : 1
+},
+{
+"value" : "satire",
+"count" : 1
+},
+{
+"value" : "sanity",
+"count" : 1
+},
+{
+"value" : "sanded",
+"count" : 1
+},
+{
+"value" : "salves",
+"count" : 1
+},
+{
+"value" : "salved",
+"count" : 1
+},
+{
+"value" : "saints",
+"count" : 1
+},
+{
+"value" : "sagest",
+"count" : 1
+},
+{
+"value" : "rustic",
+"count" : 1
+},
+{
+"value" : "ruffed",
+"count" : 1
+},
+{
+"value" : "rubbed",
+"count" : 1
+},
+{
+"value" : "rouses",
+"count" : 1
+},
+{
+"value" : "roused",
+"count" : 1
+},
+{
+"value" : "rotter",
+"count" : 1
+},
+{
+"value" : "roosts",
+"count" : 1
+},
+{
+"value" : "rondos",
+"count" : 1
+},
+{
+"value" : "robust",
+"count" : 1
+},
+{
+"value" : "riving",
+"count" : 1
+},
+{
+"value" : "rivets",
+"count" : 1
+},
+{
+"value" : "rising",
+"count" : 1
+},
+{
+"value" : "ripped",
+"count" : 1
+},
+{
+"value" : "ripens",
+"count" : 1
+},
+{
+"value" : "rimmed",
+"count" : 1
+},
+{
+"value" : "rigged",
+"count" : 1
+},
+{
+"value" : "riffed",
+"count" : 1
+},
+{
+"value" : "ridges",
+"count" : 1
+},
+{
+"value" : "riders",
+"count" : 1
+},
+{
+"value" : "ricked",
+"count" : 1
+},
+{
+"value" : "rework",
+"count" : 1
+},
+{
+"value" : "rewind",
+"count" : 1
+},
+{
+"value" : "rewarm",
+"count" : 1
+},
+{
+"value" : "review",
+"count" : 1
+},
+{
+"value" : "revers",
+"count" : 1
+},
+{
+"value" : "return",
+"count" : 1
+},
+{
+"value" : "retell",
+"count" : 1
+},
+{
+"value" : "retain",
+"count" : 1
+},
+{
+"value" : "resows",
+"count" : 1
+},
+{
+"value" : "resold",
+"count" : 1
+},
+{
+"value" : "resews",
+"count" : 1
+},
+{
+"value" : "resell",
+"count" : 1
+},
+{
+"value" : "reseed",
+"count" : 1
+},
+{
+"value" : "rescue",
+"count" : 1
+},
+{
+"value" : "rented",
+"count" : 1
+},
+{
+"value" : "rennet",
+"count" : 1
+},
+{
+"value" : "renews",
+"count" : 1
+},
+{
+"value" : "relics",
+"count" : 1
+},
+{
+"value" : "reined",
+"count" : 1
+},
+{
+"value" : "regime",
+"count" : 1
+},
+{
+"value" : "reffed",
+"count" : 1
+},
+{
+"value" : "reeves",
+"count" : 1
+},
+{
+"value" : "recess",
+"count" : 1
+},
+{
+"value" : "recent",
+"count" : 1
+},
+{
+"value" : "recede",
+"count" : 1
+},
+{
+"value" : "reason",
+"count" : 1
+},
+{
+"value" : "reamed",
+"count" : 1
+},
+{
+"value" : "rattly",
+"count" : 1
+},
+{
+"value" : "ratter",
+"count" : 1
+},
+{
+"value" : "ratted",
+"count" : 1
+},
+{
+"value" : "ratios",
+"count" : 1
+},
+{
+"value" : "rasher",
+"count" : 1
+},
+{
+"value" : "rascal",
+"count" : 1
+},
+{
+"value" : "rapped",
+"count" : 1
+},
+{
+"value" : "rapist",
+"count" : 1
+},
+{
+"value" : "rapier",
+"count" : 1
+},
+{
+"value" : "raiser",
+"count" : 1
+},
+{
+"value" : "ragged",
+"count" : 1
+},
+{
+"value" : "racket",
+"count" : 1
+},
+{
+"value" : "quotes",
+"count" : 1
+},
+{
+"value" : "quirts",
+"count" : 1
+},
+{
+"value" : "quints",
+"count" : 1
+},
+{
+"value" : "quines",
+"count" : 1
+},
+{
+"value" : "quakes",
+"count" : 1
+},
+{
+"value" : "purses",
+"count" : 1
+},
+{
+"value" : "purges",
+"count" : 1
+},
+{
+"value" : "pseudo",
+"count" : 1
+},
+{
+"value" : "pronto",
+"count" : 1
+},
+{
+"value" : "prions",
+"count" : 1
+},
+{
+"value" : "prints",
+"count" : 1
+},
+{
+"value" : "primes",
+"count" : 1
+},
+{
+"value" : "priers",
+"count" : 1
+},
+{
+"value" : "prides",
+"count" : 1
+},
+{
+"value" : "prangs",
+"count" : 1
+},
+{
+"value" : "pouter",
+"count" : 1
+},
+{
+"value" : "posers",
+"count" : 1
+},
+{
+"value" : "porter",
+"count" : 1
+},
+{
+"value" : "ported",
+"count" : 1
+},
+{
+"value" : "portal",
+"count" : 1
+},
+{
+"value" : "poring",
+"count" : 1
+},
+{
+"value" : "polyps",
+"count" : 1
+},
+{
+"value" : "poises",
+"count" : 1
+},
+{
+"value" : "pluses",
+"count" : 1
+},
+{
+"value" : "plugin",
+"count" : 1
+},
+{
+"value" : "planet",
+"count" : 1
+},
+{
+"value" : "planes",
+"count" : 1
+},
+{
+"value" : "plaint",
+"count" : 1
+},
+{
+"value" : "pistes",
+"count" : 1
+},
+{
+"value" : "pisses",
+"count" : 1
+},
+{
+"value" : "pisser",
+"count" : 1
+},
+{
+"value" : "pipers",
+"count" : 1
+},
+{
+"value" : "pincer",
+"count" : 1
+},
+{
+"value" : "pilots",
+"count" : 1
+},
+{
+"value" : "pierce",
+"count" : 1
+},
+{
+"value" : "pieces",
+"count" : 1
+},
+{
+"value" : "phrase",
+"count" : 1
+},
+{
+"value" : "phials",
+"count" : 1
+},
+{
+"value" : "phases",
+"count" : 1
+},
+{
+"value" : "phased",
+"count" : 1
+},
+{
+"value" : "permed",
+"count" : 1
+},
+{
+"value" : "perish",
+"count" : 1
+},
+{
+"value" : "period",
+"count" : 1
+},
+{
+"value" : "pended",
+"count" : 1
+},
+{
+"value" : "pelmet",
+"count" : 1
+},
+{
+"value" : "peered",
+"count" : 1
+},
+{
+"value" : "pebbly",
+"count" : 1
+},
+{
+"value" : "payers",
+"count" : 1
+},
+{
+"value" : "patron",
+"count" : 1
+},
+{
+"value" : "patois",
+"count" : 1
+},
+{
+"value" : "patina",
+"count" : 1
+},
+{
+"value" : "pathos",
+"count" : 1
+},
+{
+"value" : "pastes",
+"count" : 1
+},
+{
+"value" : "passed",
+"count" : 1
+},
+{
+"value" : "parrot",
+"count" : 1
+},
+{
+"value" : "parred",
+"count" : 1
+},
+{
+"value" : "paring",
+"count" : 1
+},
+{
+"value" : "papery",
+"count" : 1
+},
+{
+"value" : "papers",
+"count" : 1
+},
+{
+"value" : "pantie",
+"count" : 1
+},
+{
+"value" : "panted",
+"count" : 1
+},
+{
+"value" : "packer",
+"count" : 1
+},
+{
+"value" : "owlish",
+"count" : 1
+},
+{
+"value" : "output",
+"count" : 1
+},
+{
+"value" : "outlay",
+"count" : 1
+},
+{
+"value" : "ouster",
+"count" : 1
+},
+{
+"value" : "otters",
+"count" : 1
+},
+{
+"value" : "others",
+"count" : 1
+},
+{
+"value" : "orient",
+"count" : 1
+},
+{
+"value" : "ordure",
+"count" : 1
+},
+{
+"value" : "orbits",
+"count" : 1
+},
+{
+"value" : "opuses",
+"count" : 1
+},
+{
+"value" : "option",
+"count" : 1
+},
+{
+"value" : "opines",
+"count" : 1
+},
+{
+"value" : "opined",
+"count" : 1
+},
+{
+"value" : "opener",
+"count" : 1
+},
+{
+"value" : "onside",
+"count" : 1
+},
+{
+"value" : "oldies",
+"count" : 1
+},
+{
+"value" : "oceans",
+"count" : 1
+},
+{
+"value" : "obsess",
+"count" : 1
+},
+{
+"value" : "nurser",
+"count" : 1
+},
+{
+"value" : "nursed",
+"count" : 1
+},
+{
+"value" : "nudged",
+"count" : 1
+},
+{
+"value" : "novels",
+"count" : 1
+},
+{
+"value" : "noting",
+"count" : 1
+},
+{
+"value" : "nosier",
+"count" : 1
+},
+{
+"value" : "nomads",
+"count" : 1
+},
+{
+"value" : "nickel",
+"count" : 1
+},
+{
+"value" : "nettle",
+"count" : 1
+},
+{
+"value" : "netted",
+"count" : 1
+},
+{
+"value" : "nested",
+"count" : 1
+},
+{
+"value" : "nailed",
+"count" : 1
+},
+{
+"value" : "myrtle",
+"count" : 1
+},
+{
+"value" : "mousse",
+"count" : 1
+},
+{
+"value" : "motets",
+"count" : 1
+},
+{
+"value" : "morose",
+"count" : 1
+},
+{
+"value" : "morels",
+"count" : 1
+},
+{
+"value" : "morays",
+"count" : 1
+},
+{
+"value" : "moored",
+"count" : 1
+},
+{
+"value" : "molest",
+"count" : 1
+},
+{
+"value" : "molder",
+"count" : 1
+},
+{
+"value" : "molars",
+"count" : 1
+},
+{
+"value" : "models",
+"count" : 1
+},
+{
+"value" : "moaner",
+"count" : 1
+},
+{
+"value" : "moaned",
+"count" : 1
+},
+{
+"value" : "misted",
+"count" : 1
+},
+{
+"value" : "misled",
+"count" : 1
+},
+{
+"value" : "misers",
+"count" : 1
+},
+{
+"value" : "miscue",
+"count" : 1
+},
+{
+"value" : "miring",
+"count" : 1
+},
+{
+"value" : "minuet",
+"count" : 1
+},
+{
+"value" : "minder",
+"count" : 1
+},
+{
+"value" : "minded",
+"count" : 1
+},
+{
+"value" : "meteor",
+"count" : 1
+},
+{
+"value" : "merest",
+"count" : 1
+},
+{
+"value" : "menage",
+"count" : 1
+},
+{
+"value" : "melded",
+"count" : 1
+},
+{
+"value" : "medals",
+"count" : 1
+},
+{
+"value" : "meaner",
+"count" : 1
+},
+{
+"value" : "mattes",
+"count" : 1
+},
+{
+"value" : "mating",
+"count" : 1
+},
+{
+"value" : "mateys",
+"count" : 1
+},
+{
+"value" : "mashes",
+"count" : 1
+},
+{
+"value" : "mashed",
+"count" : 1
+},
+{
+"value" : "masers",
+"count" : 1
+},
+{
+"value" : "marker",
+"count" : 1
+},
+{
+"value" : "mapper",
+"count" : 1
+},
+{
+"value" : "maples",
+"count" : 1
+},
+{
+"value" : "mantis",
+"count" : 1
+},
+{
+"value" : "manors",
+"count" : 1
+},
+{
+"value" : "makers",
+"count" : 1
+},
+{
+"value" : "mailed",
+"count" : 1
+},
+{
+"value" : "maiden",
+"count" : 1
+},
+{
+"value" : "madras",
+"count" : 1
+},
+{
+"value" : "luring",
+"count" : 1
+},
+{
+"value" : "lumpen",
+"count" : 1
+},
+{
+"value" : "lumped",
+"count" : 1
+},
+{
+"value" : "lumber",
+"count" : 1
+},
+{
+"value" : "lovers",
+"count" : 1
+},
+{
+"value" : "lovely",
+"count" : 1
+},
+{
+"value" : "loured",
+"count" : 1
+},
+{
+"value" : "losing",
+"count" : 1
+},
+{
+"value" : "lordly",
+"count" : 1
+},
+{
+"value" : "loping",
+"count" : 1
+},
+{
+"value" : "looter",
+"count" : 1
+},
+{
+"value" : "looted",
+"count" : 1
+},
+{
+"value" : "loiter",
+"count" : 1
+},
+{
+"value" : "logged",
+"count" : 1
+},
+{
+"value" : "livest",
+"count" : 1
+},
+{
+"value" : "livery",
+"count" : 1
+},
+{
+"value" : "livens",
+"count" : 1
+},
+{
+"value" : "lisped",
+"count" : 1
+},
+{
+"value" : "linted",
+"count" : 1
+},
+{
+"value" : "lineup",
+"count" : 1
+},
+{
+"value" : "limper",
+"count" : 1
+},
+{
+"value" : "limped",
+"count" : 1
+},
+{
+"value" : "limeys",
+"count" : 1
+},
+{
+"value" : "lilted",
+"count" : 1
+},
+{
+"value" : "likens",
+"count" : 1
+},
+{
+"value" : "lights",
+"count" : 1
+},
+{
+"value" : "lieder",
+"count" : 1
+},
+{
+"value" : "lidded",
+"count" : 1
+},
+{
+"value" : "lewder",
+"count" : 1
+},
+{
+"value" : "levied",
+"count" : 1
+},
+{
+"value" : "levees",
+"count" : 1
+},
+{
+"value" : "lessor",
+"count" : 1
+},
+{
+"value" : "lepers",
+"count" : 1
+},
+{
+"value" : "lentil",
+"count" : 1
+},
+{
+"value" : "lenses",
+"count" : 1
+},
+{
+"value" : "legman",
+"count" : 1
+},
+{
+"value" : "leered",
+"count" : 1
+},
+{
+"value" : "ledges",
+"count" : 1
+},
+{
+"value" : "leaver",
+"count" : 1
+},
+{
+"value" : "leased",
+"count" : 1
+},
+{
+"value" : "leaper",
+"count" : 1
+},
+{
+"value" : "leaped",
+"count" : 1
+},
+{
+"value" : "leaned",
+"count" : 1
+},
+{
+"value" : "leader",
+"count" : 1
+},
+{
+"value" : "lattes",
+"count" : 1
+},
+{
+"value" : "latter",
+"count" : 1
+},
+{
+"value" : "latent",
+"count" : 1
+},
+{
+"value" : "lapped",
+"count" : 1
+},
+{
+"value" : "lanker",
+"count" : 1
+},
+{
+"value" : "landed",
+"count" : 1
+},
+{
+"value" : "laming",
+"count" : 1
+},
+{
+"value" : "lamest",
+"count" : 1
+},
+{
+"value" : "lamers",
+"count" : 1
+},
+{
+"value" : "laddie",
+"count" : 1
+},
+{
+"value" : "ladder",
+"count" : 1
+},
+{
+"value" : "lacked",
+"count" : 1
+},
+{
+"value" : "lacier",
+"count" : 1
+},
+{
+"value" : "labile",
+"count" : 1
+},
+{
+"value" : "kneads",
+"count" : 1
+},
+{
+"value" : "kludge",
+"count" : 1
+},
+{
+"value" : "kitsch",
+"count" : 1
+},
+{
+"value" : "kisser",
+"count" : 1
+},
+{
+"value" : "kinder",
+"count" : 1
+},
+{
+"value" : "joiner",
+"count" : 1
+},
+{
+"value" : "jaunts",
+"count" : 1
+},
+{
+"value" : "issued",
+"count" : 1
+},
+{
+"value" : "isomer",
+"count" : 1
+},
+{
+"value" : "ipecac",
+"count" : 1
+},
+{
+"value" : "inured",
+"count" : 1
+},
+{
+"value" : "insult",
+"count" : 1
+},
+{
+"value" : "instep",
+"count" : 1
+},
+{
+"value" : "insole",
+"count" : 1
+},
+{
+"value" : "inside",
+"count" : 1
+},
+{
+"value" : "insets",
+"count" : 1
+},
+{
+"value" : "insert",
+"count" : 1
+},
+{
+"value" : "insane",
+"count" : 1
+},
+{
+"value" : "inroad",
+"count" : 1
+},
+{
+"value" : "inmost",
+"count" : 1
+},
+{
+"value" : "inhere",
+"count" : 1
+},
+{
+"value" : "indeed",
+"count" : 1
+},
+{
+"value" : "impure",
+"count" : 1
+},
+{
+"value" : "impugn",
+"count" : 1
+},
+{
+"value" : "impels",
+"count" : 1
+},
+{
+"value" : "ignore",
+"count" : 1
+},
+{
+"value" : "idlers",
+"count" : 1
+},
+{
+"value" : "iciest",
+"count" : 1
+},
+{
+"value" : "hustle",
+"count" : 1
+},
+{
+"value" : "hurled",
+"count" : 1
+},
+{
+"value" : "hunger",
+"count" : 1
+},
+{
+"value" : "hovels",
+"count" : 1
+},
+{
+"value" : "horses",
+"count" : 1
+},
+{
+"value" : "hooped",
+"count" : 1
+},
+{
+"value" : "hocked",
+"count" : 1
+},
+{
+"value" : "hitter",
+"count" : 1
+},
+{
+"value" : "hissed",
+"count" : 1
+},
+{
+"value" : "hinges",
+"count" : 1
+},
+{
+"value" : "hewing",
+"count" : 1
+},
+{
+"value" : "hewers",
+"count" : 1
+},
+{
+"value" : "herpes",
+"count" : 1
+},
+{
+"value" : "heroic",
+"count" : 1
+},
+{
+"value" : "hereto",
+"count" : 1
+},
+{
+"value" : "helves",
+"count" : 1
+},
+{
+"value" : "heaves",
+"count" : 1
+},
+{
+"value" : "heaths",
+"count" : 1
+},
+{
+"value" : "heater",
+"count" : 1
+},
+{
+"value" : "hearer",
+"count" : 1
+},
+{
+"value" : "havens",
+"count" : 1
+},
+{
+"value" : "haunts",
+"count" : 1
+},
+{
+"value" : "hasted",
+"count" : 1
+},
+{
+"value" : "hassle",
+"count" : 1
+},
+{
+"value" : "harems",
+"count" : 1
+},
+{
+"value" : "hanger",
+"count" : 1
+},
+{
+"value" : "halter",
+"count" : 1
+},
+{
+"value" : "halted",
+"count" : 1
+},
+{
+"value" : "halest",
+"count" : 1
+},
+{
+"value" : "gusset",
+"count" : 1
+},
+{
+"value" : "gurgle",
+"count" : 1
+},
+{
+"value" : "gulden",
+"count" : 1
+},
+{
+"value" : "grunts",
+"count" : 1
+},
+{
+"value" : "grudge",
+"count" : 1
+},
+{
+"value" : "grower",
+"count" : 1
+},
+{
+"value" : "groins",
+"count" : 1
+},
+{
+"value" : "grazes",
+"count" : 1
+},
+{
+"value" : "grates",
+"count" : 1
+},
+{
+"value" : "grapes",
+"count" : 1
+},
+{
+"value" : "grange",
+"count" : 1
+},
+{
+"value" : "grader",
+"count" : 1
+},
+{
+"value" : "graded",
+"count" : 1
+},
+{
+"value" : "graced",
+"count" : 1
+},
+{
+"value" : "goring",
+"count" : 1
+},
+{
+"value" : "gneiss",
+"count" : 1
+},
+{
+"value" : "girths",
+"count" : 1
+},
+{
+"value" : "girded",
+"count" : 1
+},
+{
+"value" : "ginger",
+"count" : 1
+},
+{
+"value" : "gilded",
+"count" : 1
+},
+{
+"value" : "giants",
+"count" : 1
+},
+{
+"value" : "genres",
+"count" : 1
+},
+{
+"value" : "genies",
+"count" : 1
+},
+{
+"value" : "genial",
+"count" : 1
+},
+{
+"value" : "garner",
+"count" : 1
+},
+{
+"value" : "gaping",
+"count" : 1
+},
+{
+"value" : "ganged",
+"count" : 1
+},
+{
+"value" : "gamier",
+"count" : 1
+},
+{
+"value" : "gaiter",
+"count" : 1
+},
+{
+"value" : "gainer",
+"count" : 1
+},
+{
+"value" : "gadget",
+"count" : 1
+},
+{
+"value" : "fresco",
+"count" : 1
+},
+{
+"value" : "freest",
+"count" : 1
+},
+{
+"value" : "frayed",
+"count" : 1
+},
+{
+"value" : "founts",
+"count" : 1
+},
+{
+"value" : "former",
+"count" : 1
+},
+{
+"value" : "formed",
+"count" : 1
+},
+{
+"value" : "forges",
+"count" : 1
+},
+{
+"value" : "folder",
+"count" : 1
+},
+{
+"value" : "fodder",
+"count" : 1
+},
+{
+"value" : "foaled",
+"count" : 1
+},
+{
+"value" : "flares",
+"count" : 1
+},
+{
+"value" : "firths",
+"count" : 1
+},
+{
+"value" : "finked",
+"count" : 1
+},
+{
+"value" : "finger",
+"count" : 1
+},
+{
+"value" : "finder",
+"count" : 1
+},
+{
+"value" : "filler",
+"count" : 1
+},
+{
+"value" : "fidget",
+"count" : 1
+},
+{
+"value" : "fiches",
+"count" : 1
+},
+{
+"value" : "ferule",
+"count" : 1
+},
+{
+"value" : "fended",
+"count" : 1
+},
+{
+"value" : "feeder",
+"count" : 1
+},
+{
+"value" : "feasts",
+"count" : 1
+},
+{
+"value" : "feared",
+"count" : 1
+},
+{
+"value" : "fayest",
+"count" : 1
+},
+{
+"value" : "faults",
+"count" : 1
+},
+{
+"value" : "farmer",
+"count" : 1
+},
+{
+"value" : "farmed",
+"count" : 1
+},
+{
+"value" : "fakers",
+"count" : 1
+},
+{
+"value" : "extras",
+"count" : 1
+},
+{
+"value" : "expect",
+"count" : 1
+},
+{
+"value" : "exists",
+"count" : 1
+},
+{
+"value" : "exalts",
+"count" : 1
+},
+{
+"value" : "evicts",
+"count" : 1
+},
+{
+"value" : "evener",
+"count" : 1
+},
+{
+"value" : "evades",
+"count" : 1
+},
+{
+"value" : "ethics",
+"count" : 1
+},
+{
+"value" : "escrow",
+"count" : 1
+},
+{
+"value" : "escape",
+"count" : 1
+},
+{
+"value" : "erupts",
+"count" : 1
+},
+{
+"value" : "erring",
+"count" : 1
+},
+{
+"value" : "errant",
+"count" : 1
+},
+{
+"value" : "errand",
+"count" : 1
+},
+{
+"value" : "erodes",
+"count" : 1
+},
+{
+"value" : "erects",
+"count" : 1
+},
+{
+"value" : "erased",
+"count" : 1
+},
+{
+"value" : "equips",
+"count" : 1
+},
+{
+"value" : "equals",
+"count" : 1
+},
+{
+"value" : "entrap",
+"count" : 1
+},
+{
+"value" : "ensued",
+"count" : 1
+},
+{
+"value" : "enrage",
+"count" : 1
+},
+{
+"value" : "enigma",
+"count" : 1
+},
+{
+"value" : "engram",
+"count" : 1
+},
+{
+"value" : "enfold",
+"count" : 1
+},
+{
+"value" : "enemas",
+"count" : 1
+},
+{
+"value" : "endued",
+"count" : 1
+},
+{
+"value" : "endows",
+"count" : 1
+},
+{
+"value" : "ending",
+"count" : 1
+},
+{
+"value" : "encase",
+"count" : 1
+},
+{
+"value" : "enable",
+"count" : 1
+},
+{
+"value" : "emoted",
+"count" : 1
+},
+{
+"value" : "emboss",
+"count" : 1
+},
+{
+"value" : "elides",
+"count" : 1
+},
+{
+"value" : "elects",
+"count" : 1
+},
+{
+"value" : "elbows",
+"count" : 1
+},
+{
+"value" : "elates",
+"count" : 1
+},
+{
+"value" : "eighth",
+"count" : 1
+},
+{
+"value" : "egrets",
+"count" : 1
+},
+{
+"value" : "egoist",
+"count" : 1
+},
+{
+"value" : "educed",
+"count" : 1
+},
+{
+"value" : "editor",
+"count" : 1
+},
+{
+"value" : "edited",
+"count" : 1
+},
+{
+"value" : "edible",
+"count" : 1
+},
+{
+"value" : "echoic",
+"count" : 1
+},
+{
+"value" : "eaters",
+"count" : 1
+},
+{
+"value" : "easels",
+"count" : 1
+},
+{
+"value" : "earthy",
+"count" : 1
+},
+{
+"value" : "earner",
+"count" : 1
+},
+{
+"value" : "eaglet",
+"count" : 1
+},
+{
+"value" : "downer",
+"count" : 1
+},
+{
+"value" : "doings",
+"count" : 1
+},
+{
+"value" : "divers",
+"count" : 1
+},
+{
+"value" : "divans",
+"count" : 1
+},
+{
+"value" : "didoes",
+"count" : 1
+},
+{
+"value" : "devote",
+"count" : 1
+},
+{
+"value" : "devoid",
+"count" : 1
+},
+{
+"value" : "desist",
+"count" : 1
+},
+{
+"value" : "dented",
+"count" : 1
+},
+{
+"value" : "demoed",
+"count" : 1
+},
+{
+"value" : "deeply",
+"count" : 1
+},
+{
+"value" : "decide",
+"count" : 1
+},
+{
+"value" : "dawdle",
+"count" : 1
+},
+{
+"value" : "dashes",
+"count" : 1
+},
+{
+"value" : "dasher",
+"count" : 1
+},
+{
+"value" : "dashed",
+"count" : 1
+},
+{
+"value" : "dander",
+"count" : 1
+},
+{
+"value" : "dagoes",
+"count" : 1
+},
+{
+"value" : "cutesy",
+"count" : 1
+},
+{
+"value" : "curled",
+"count" : 1
+},
+{
+"value" : "curers",
+"count" : 1
+},
+{
+"value" : "cupids",
+"count" : 1
+},
+{
+"value" : "cubist",
+"count" : 1
+},
+{
+"value" : "crusty",
+"count" : 1
+},
+{
+"value" : "cruses",
+"count" : 1
+},
+{
+"value" : "cruise",
+"count" : 1
+},
+{
+"value" : "critic",
+"count" : 1
+},
+{
+"value" : "crisps",
+"count" : 1
+},
+{
+"value" : "crimps",
+"count" : 1
+},
+{
+"value" : "criers",
+"count" : 1
+},
+{
+"value" : "creeps",
+"count" : 1
+},
+{
+"value" : "credit",
+"count" : 1
+},
+{
+"value" : "creams",
+"count" : 1
+},
+{
+"value" : "crawls",
+"count" : 1
+},
+{
+"value" : "craned",
+"count" : 1
+},
+{
+"value" : "covert",
+"count" : 1
+},
+{
+"value" : "course",
+"count" : 1
+},
+{
+"value" : "corker",
+"count" : 1
+},
+{
+"value" : "corers",
+"count" : 1
+},
+{
+"value" : "copula",
+"count" : 1
+},
+{
+"value" : "copses",
+"count" : 1
+},
+{
+"value" : "cooker",
+"count" : 1
+},
+{
+"value" : "conses",
+"count" : 1
+},
+{
+"value" : "consed",
+"count" : 1
+},
+{
+"value" : "conker",
+"count" : 1
+},
+{
+"value" : "condor",
+"count" : 1
+},
+{
+"value" : "coming",
+"count" : 1
+},
+{
+"value" : "comics",
+"count" : 1
+},
+{
+"value" : "coiled",
+"count" : 1
+},
+{
+"value" : "cohere",
+"count" : 1
+},
+{
+"value" : "cobras",
+"count" : 1
+},
+{
+"value" : "clumsy",
+"count" : 1
+},
+{
+"value" : "clouts",
+"count" : 1
+},
+{
+"value" : "cleric",
+"count" : 1
+},
+{
+"value" : "cleats",
+"count" : 1
+},
+{
+"value" : "cleans",
+"count" : 1
+},
+{
+"value" : "clasps",
+"count" : 1
+},
+{
+"value" : "chicle",
+"count" : 1
+},
+{
+"value" : "cerium",
+"count" : 1
+},
+{
+"value" : "cavern",
+"count" : 1
+},
+{
+"value" : "caveat",
+"count" : 1
+},
+{
+"value" : "causes",
+"count" : 1
+},
+{
+"value" : "causer",
+"count" : 1
+},
+{
+"value" : "caused",
+"count" : 1
+},
+{
+"value" : "casual",
+"count" : 1
+},
+{
+"value" : "cashes",
+"count" : 1
+},
+{
+"value" : "cashed",
+"count" : 1
+},
+{
+"value" : "carved",
+"count" : 1
+},
+{
+"value" : "carped",
+"count" : 1
+},
+{
+"value" : "caroms",
+"count" : 1
+},
+{
+"value" : "carols",
+"count" : 1
+},
+{
+"value" : "caress",
+"count" : 1
+},
+{
+"value" : "carers",
+"count" : 1
+},
+{
+"value" : "cantor",
+"count" : 1
+},
+{
+"value" : "canted",
+"count" : 1
+},
+{
+"value" : "canoed",
+"count" : 1
+},
+{
+"value" : "cannot",
+"count" : 1
+},
+{
+"value" : "caners",
+"count" : 1
+},
+{
+"value" : "candle",
+"count" : 1
+},
+{
+"value" : "camped",
+"count" : 1
+},
+{
+"value" : "camels",
+"count" : 1
+},
+{
+"value" : "caiman",
+"count" : 1
+},
+{
+"value" : "busted",
+"count" : 1
+},
+{
+"value" : "burned",
+"count" : 1
+},
+{
+"value" : "bunked",
+"count" : 1
+},
+{
+"value" : "bugles",
+"count" : 1
+},
+{
+"value" : "bugler",
+"count" : 1
+},
+{
+"value" : "bugled",
+"count" : 1
+},
+{
+"value" : "buffer",
+"count" : 1
+},
+{
+"value" : "budges",
+"count" : 1
+},
+{
+"value" : "browse",
+"count" : 1
+},
+{
+"value" : "briefs",
+"count" : 1
+},
+{
+"value" : "bridal",
+"count" : 1
+},
+{
+"value" : "briber",
+"count" : 1
+},
+{
+"value" : "bribed",
+"count" : 1
+},
+{
+"value" : "brazes",
+"count" : 1
+},
+{
+"value" : "braise",
+"count" : 1
+},
+{
+"value" : "braids",
+"count" : 1
+},
+{
+"value" : "braces",
+"count" : 1
+},
+{
+"value" : "bowler",
+"count" : 1
+},
+{
+"value" : "boring",
+"count" : 1
+},
+{
+"value" : "booger",
+"count" : 1
+},
+{
+"value" : "bombed",
+"count" : 1
+},
+{
+"value" : "boiler",
+"count" : 1
+},
+{
+"value" : "boasts",
+"count" : 1
+},
+{
+"value" : "bluing",
+"count" : 1
+},
+{
+"value" : "blouse",
+"count" : 1
+},
+{
+"value" : "bleeps",
+"count" : 1
+},
+{
+"value" : "blares",
+"count" : 1
+},
+{
+"value" : "blared",
+"count" : 1
+},
+{
+"value" : "binary",
+"count" : 1
+},
+{
+"value" : "bidder",
+"count" : 1
+},
+{
+"value" : "belays",
+"count" : 1
+},
+{
+"value" : "battle",
+"count" : 1
+},
+{
+"value" : "bather",
+"count" : 1
+},
+{
+"value" : "basalt",
+"count" : 1
+},
+{
+"value" : "barony",
+"count" : 1
+},
+{
+"value" : "barney",
+"count" : 1
+},
+{
+"value" : "barbel",
+"count" : 1
+},
+{
+"value" : "barbed",
+"count" : 1
+},
+{
+"value" : "bantam",
+"count" : 1
+},
+{
+"value" : "balded",
+"count" : 1
+},
+{
+"value" : "bairns",
+"count" : 1
+},
+{
+"value" : "bagels",
+"count" : 1
+},
+{
+"value" : "babier",
+"count" : 1
+},
+{
+"value" : "awning",
+"count" : 1
+},
+{
+"value" : "avails",
+"count" : 1
+},
+{
+"value" : "attune",
+"count" : 1
+},
+{
+"value" : "attics",
+"count" : 1
+},
+{
+"value" : "atrial",
+"count" : 1
+},
+{
+"value" : "atoned",
+"count" : 1
+},
+{
+"value" : "astute",
+"count" : 1
+},
+{
+"value" : "assort",
+"count" : 1
+},
+{
+"value" : "assist",
+"count" : 1
+},
+{
+"value" : "assess",
+"count" : 1
+},
+{
+"value" : "assent",
+"count" : 1
+},
+{
+"value" : "asides",
+"count" : 1
+},
+{
+"value" : "ashore",
+"count" : 1
+},
+{
+"value" : "ascots",
+"count" : 1
+},
+{
+"value" : "ascend",
+"count" : 1
+},
+{
+"value" : "arsing",
+"count" : 1
+},
+{
+"value" : "armpit",
+"count" : 1
+},
+{
+"value" : "arming",
+"count" : 1
+},
+{
+"value" : "arises",
+"count" : 1
+},
+{
+"value" : "arisen",
+"count" : 1
+},
+{
+"value" : "argues",
+"count" : 1
+},
+{
+"value" : "argent",
+"count" : 1
+},
+{
+"value" : "ardent",
+"count" : 1
+},
+{
+"value" : "aprons",
+"count" : 1
+},
+{
+"value" : "applet",
+"count" : 1
+},
+{
+"value" : "append",
+"count" : 1
+},
+{
+"value" : "antler",
+"count" : 1
+},
+{
+"value" : "anoint",
+"count" : 1
+},
+{
+"value" : "angled",
+"count" : 1
+},
+{
+"value" : "angers",
+"count" : 1
+},
+{
+"value" : "amuses",
+"count" : 1
+},
+{
+"value" : "amides",
+"count" : 1
+},
+{
+"value" : "amerce",
+"count" : 1
+},
+{
+"value" : "ambles",
+"count" : 1
+},
+{
+"value" : "alumna",
+"count" : 1
+},
+{
+"value" : "allure",
+"count" : 1
+},
+{
+"value" : "allows",
+"count" : 1
+},
+{
+"value" : "allots",
+"count" : 1
+},
+{
+"value" : "aliens",
+"count" : 1
+},
+{
+"value" : "alcove",
+"count" : 1
+},
+{
+"value" : "aisles",
+"count" : 1
+},
+{
+"value" : "airman",
+"count" : 1
+},
+{
+"value" : "agrees",
+"count" : 1
+},
+{
+"value" : "agreed",
+"count" : 1
+},
+{
+"value" : "ageism",
+"count" : 1
+},
+{
+"value" : "afield",
+"count" : 1
+},
+{
+"value" : "affair",
+"count" : 1
+},
+{
+"value" : "aeries",
+"count" : 1
+},
+{
+"value" : "advise",
+"count" : 1
+},
+{
+"value" : "adverb",
+"count" : 1
+},
+{
+"value" : "adores",
+"count" : 1
+},
+{
+"value" : "adorer",
+"count" : 1
+},
+{
+"value" : "adhere",
+"count" : 1
+},
+{
+"value" : "adepts",
+"count" : 1
+},
+{
+"value" : "addles",
+"count" : 1
+},
+{
+"value" : "acuter",
+"count" : 1
+},
+{
+"value" : "action",
+"count" : 1
+},
+{
+"value" : "abuser",
+"count" : 1
+},
+{
+"value" : "abroad",
+"count" : 1
+},
+{
+"value" : "aborts",
+"count" : 1
+},
+{
+"value" : "abodes",
+"count" : 1
+},
+{
+"value" : "abides",
+"count" : 1
+},
