@@ -15,11 +15,10 @@ Mongo: MongoDB 2.6.7
 Zadanie drugie wykonane na stacjonarce: 
 
 ~~~~
-HP ProBook 4520s
-Pamięć: 4GB RAM
-Procesor: intel i3-350M
-Dysk: Hitachi HTS725050A9A364 7200RPM 
-System: Mint 17
+Pamięć: 8GB RAM
+Procesor: amd Phenom II X4 965 @4GHz
+Dysk: WDC 1TB 7200RPM 
+System: Fedora 21 Kde
 Mongo: MongoDB 2.6.7
 ~~~~
 
@@ -63,19 +62,19 @@ user	0m0.048s
 sys	0m0.016s
 ~~~
 
-Żeby zobaczyć wyniki w ladnym wykresie, zapraszam na [strone](egzamin.project-midas.com), która specjalnie stworzylem na potrzeby ladnej prezentacji danych do egzaminu.
+Żeby zobaczyć wyniki w ladnym wykresie, zapraszam na [strone](http://egzamin.project-midas.com), która specjalnie stworzylem na potrzeby ladnej prezentacji danych do egzaminu.
 
 ## Zad2
 Do tego ściągnąłem najnowszą wersję wikipedii plwiki-20150116-pages-articles-multistream.xml.bz2. Wszystkie słowa, które parsuję, zapisuję w małych literach. Są to dwa powody, przez które mogę mieć inne wyniki niż koledzy.
 
-Parsowanie pliku za pomoca Parser.java
+Parsowanie pliku za pomoca [Parser.java](Parser.java)
 ~~~
 czas: 22m10s
 ~~~
 
 ![img](img/czyszczenie.png)
 
-i usuwanie pustych linii za pomocą Cleaner.java
+i usuwanie pustych linii za pomocą [Cleaner.java](Cleaner.java)
 
 ~~~
 czas: 19m56s
@@ -92,7 +91,7 @@ sys	0m31.687s
 ~~~
 ![img](img/import.png)
 
-Po imporcie wykonuję Map i Reduce dzięki (skryptowi)[egzamin2MapReduce].
+Po imporcie wykonuję Map i Reduce dzięki [skryptowi](egzamin2MapReduce).
 
 ![img](img/map.png)
 ![img](img/reduce.png)
@@ -146,4 +145,4 @@ mongo --port 27000 toJson2.js > odp2.json
 },
 ~~~
 
-Zapraszam do spojrzenia na [stronę](egzamin.project-midas.com) na wykres.
+Zapraszam do spojrzenia na [stronę](http://egzamin.project-midas.com) na wykres.
